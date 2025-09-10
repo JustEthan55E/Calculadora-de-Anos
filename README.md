@@ -1,4 +1,4 @@
-# Calculadora-de-Anos
+# Calculadora de Anos
 ## Finalidade do Projeto:
 Este projeto é uma simples calculadora de idade que pede ao utilizador o ano atual e o ano de nascimento, e depois calcula e diz a idade do utilizador.
 

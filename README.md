@@ -18,6 +18,6 @@ Este projeto ajudou-me a reforçar as seguintes competências:
 - Instala um compilador de C/C++ instalado no teu sistema (como o MinGW ou GCC);
 - Copia o código do projeto;
 - Abre o CMD, vai até a pasta do projeto;
-- Compila o programa usando o seguinte comando: *gcc -o Calculadora_Anos CalculadoraAnos.c*;
-- Executa o programa com o seguinte comando: *Calculadora_Anos.exe* ou *./Calculadora_Anos*;
+- Compila o programa usando o seguinte comando: *gcc -o Calculadora_Anos CalculadoraAnos.c* ;
+- Executa o programa com o seguinte comando: *Calculadora_Anos.exe* ou *./Calculadora_Anos* ;
 - Agora é só seguires as indicações do programa e irá calcular a tua idade.

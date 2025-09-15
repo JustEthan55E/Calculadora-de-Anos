@@ -10,7 +10,7 @@ Este projeto é uma simples calculadora de idade que pede ao utilizador o ano at
 
 ## O que este projeto me ajudou a aprender?
 Este projeto ajudou-me a reforçar as seguintes competências:
-- Variáveis: Para definir o tipo de dado a ser inserido;
+- Tipos de dados: Para definir os dados a serem inseridos;
 - Funções *printf()* e *scanf()*: Para exibir mensagens e recolher dados do utilizador;
 - Operadores aritméticos: Para determinar cálculo da idade;
 - Estruturas Condicionais *if/else*: Para tomar decisões com base os dados fornecidos pelo utilizador.
